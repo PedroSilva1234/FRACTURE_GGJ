@@ -1,0 +1,20 @@
+# --- Pastas de Cache e Temporários ---
+.ignore/
+cache/
+export/
+datafiles_yy/
+old_project_backups/
+
+# --- Configurações Locais de Usuário ---
+# (Isso evita que suas configurações de janela e abas abertas afetem o Pedro)
+local_settings.json
+*.user
+*.user.yy
+
+# --- Arquivos do Sistema Operacional ---
+Thumbs.db
+.DS_Store
+
+# --- Logs de Erro ---
+*.log
+ui_log.txt
