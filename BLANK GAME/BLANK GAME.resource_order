@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fnt_dialogo","order":8,"path":"fonts/fnt_dialogo/fnt_dialogo.yy",},
+    {"name":"Obj_camera","order":4,"path":"objects/Obj_camera/Obj_camera.yy",},
+    {"name":"Obj_dialogue_button","order":5,"path":"objects/Obj_dialogue_button/Obj_dialogue_button.yy",},
+    {"name":"Obj_dialogue_manager","order":1,"path":"objects/Obj_dialogue_manager/Obj_dialogue_manager.yy",},
+    {"name":"Object2","order":2,"path":"objects/Object2/Object2.yy",},
+    {"name":"SalaNormal","order":3,"path":"sprites/SalaNormal/SalaNormal.yy",},
+    {"name":"spr_dialogue_box","order":7,"path":"sprites/spr_dialogue_box/spr_dialogue_box.yy",},
+    {"name":"Sprite2","order":6,"path":"sprites/Sprite2/Sprite2.yy",},
+  ],
+}
